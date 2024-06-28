@@ -1,1 +1,1 @@
-# Text-to-Image-Generation-SSD-1B-Gradio-App
+# Text-to-Image-Generation-Gradio-App
